@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Projekty Unreal\\UnrealLearningKit\\Source\\UnrealLearningKit\\MovingPlatform.cpp",
+		"arguments": [
+			"D:\\Program Files\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projekty Unreal\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projekty Unreal\\UnrealLearningKit\\Source\\UnrealLearningKit\\MovingPlatform.h",
+		"arguments": [
+			"D:\\Program Files\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projekty Unreal\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projekty Unreal\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"arguments": [
+			"D:\\Program Files\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projekty Unreal\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projekty Unreal\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"arguments": [
+			"D:\\Program Files\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projekty Unreal\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projekty Unreal\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"arguments": [
+			"D:\\Program Files\\Visual Studio 2022\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projekty Unreal\\UnrealLearningKit\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.5\\Engine\\Source"
+	}
+]
